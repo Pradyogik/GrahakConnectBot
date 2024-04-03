@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a7921f5.css",
+    "main.js": "/static/js/main.19429695.js",
+    "static/js/453.63275cba.chunk.js": "/static/js/453.63275cba.chunk.js",
+    "static/media/hello.svg": "/static/media/hello.2c5ef7ddb6308bebc8a9fded05aa8f27.svg",
+    "static/media/namaste.svg": "/static/media/namaste.0df9c12c0d7a1f46fe6a3a801cad5abd.svg",
+    "static/media/send.svg": "/static/media/send.71aff81bd2b5782b0c3d3d65d82556a9.svg",
+    "static/media/Microphone.svg": "/static/media/Microphone.07b8b90092468116200b8e259c97b368.svg",
+    "index.html": "/index.html",
+    "static/media/clock.svg": "/static/media/clock.c39bcda0f2557a46f7602e8268af9228.svg",
+    "static/media/back.svg": "/static/media/back.fa715b01f0403a5a7f3b6782a782b81a.svg",
+    "static/media/botchatlogo.svg": "/static/media/botchatlogo.afc10f8c9d7d4e7aa357ebdc97b18065.svg",
+    "main.5a7921f5.css.map": "/static/css/main.5a7921f5.css.map",
+    "main.19429695.js.map": "/static/js/main.19429695.js.map",
+    "453.63275cba.chunk.js.map": "/static/js/453.63275cba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7921f5.css",
+    "static/js/main.19429695.js"
+  ]
+}
